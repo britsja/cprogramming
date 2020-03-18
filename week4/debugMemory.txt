@@ -1,0 +1,5 @@
+Use valgrind to see if the C program is leaking (not freeing) memory.
+
+Needed to install with apt install valgrind
+
+valgrind ./a.out   or whatever the the output compiled file is 
